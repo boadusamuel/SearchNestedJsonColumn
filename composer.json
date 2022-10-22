@@ -3,7 +3,7 @@
     "description": "Search Nested json column inside database with no case sensitivity",
     "license": ["MIT"],
     "require": {
-        "illuminate/database": "^9.36.0"
+
     },
     "autoload": {
         "psr-4": {
