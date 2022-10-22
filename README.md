@@ -1,6 +1,6 @@
 # Search Nested JSON Database Column
 
-This package enables you make search inside nested json column in a database without case sensitivity.
+This package enables you make search inside nested json column in a database without case sensitivity inside laravel projects.
 
 ## Installation
 
